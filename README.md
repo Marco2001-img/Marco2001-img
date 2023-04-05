@@ -1,1 +1,1 @@
-Hola mi nombre es Marco Antonio y soy Desarrollador Web, me fasinan ambas partes Front-ed y Back-end pero me gusta más BACKEND, tengo 2 años de experiencia haciendo proyectos y avaces spy freenlace :)
+Hola mi nombre es Marco Antonio y soy Desarrollador Web, me fasinan ambas partes Front-ed y Back-end pero me gusta más BACKEND, tengo 2 años de experiencia haciendo proyectos y a veces trabajo como freenlace para diferentes compañias 🥰
