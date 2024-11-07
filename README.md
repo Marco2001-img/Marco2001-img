@@ -20,7 +20,6 @@
 <!-- Talking about you -->
 **About Me:**
 
-- 2 años de experiencia
 - Desarrollo: .Net, Angular, React, SQLSERVER
 - Ingles intermedio
 - Entity Framework ORM
