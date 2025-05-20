@@ -20,10 +20,9 @@
 <!-- Talking about you -->
 **About Me:**
 
-- Desarrollo: .Net, Angular, React, SQLSERVER
-- Ingles intermedio
-- Entity Framework ORM
-- MVC
+- Desarrollo: Django,AWS,docker,postgresql,linux
+- Ingles
+
 
 ---
 
