@@ -7,7 +7,7 @@
 <!-- Talking about you -->
 **About Me:**
 
-- Desarrollo: Django,AWS,Docker,Postgresql,Ubuntu
+- Django,AWS,Docker,Postgresql,Ubuntu
 - Ingles B1
 
 
