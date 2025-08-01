@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 Backend Django Flask<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Backend Spring Boot<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Your title -->
 
 &nbsp;
@@ -7,8 +7,7 @@
 <!-- Talking about you -->
 **About Me:**
 
-- Django,AWS,Docker,Postgresql,Ubuntu
-- Ingles B1
+- Angular,Spring bot,Tailwind css,Oracle,Ubuntu
 
 
 ---
